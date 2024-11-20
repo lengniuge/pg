@@ -228,36 +228,7 @@
                 "hosts": ["magnet"],
                 "regex": ["更多", "社 區", "x u u", "最 新", "直 播", "更 新", "社 区", "有 趣", "英皇体育", "全中文AV在线", "澳门皇冠赌场", "哥哥快来", "美女荷官", "裸聊", "新片首发", "UUE29"]
         }],
-        "parses": [{
-                "name": "37",
-                "type": 0,
-                "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-                "name": "na",
-                "type": 1,
-                "url": "https://api.cnmcom.com/webcloud/a1.php?url="
-        },
-        {
-                "name": "25",
-                "type": 1,
-                "url": "http://119.91.123.253:2345/Api/yun.php?url="
-        },
-        {
-                "name": "47",
-                "type": 1,
-                "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
-        },
-        {
-                "name": "p8",
-                "type": 1,
-                "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-        },
-        {
-                "name": "js",
-                "type": 0,
-                "url": "https://jx.jsonplayer.com/player/?url="
-        },
+        "parses": [
         {
                 "name": "xm",
                 "type": 0,
